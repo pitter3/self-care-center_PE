@@ -17,11 +17,12 @@ This is a motivational website that will display the users choice of random mant
 9. Enjoy!
 
 ### Preview of App:
-(![Alt text](Untitled.gif))
+
+![Alt text](Untitled.gif)
 
 ### Context:
 
-I worked on this project intermittently over 4 days, an estimated 10 hours of time was spent on this project. I am on my third week of Mod 1 at Turing School of Software & Design.
+I worked on this project intermittently over 4 days, an estimated 10 hours of time was spent on this project. I am on my third week of Mod 1 at Turing School of Software & Design!
 
 ### Contributors:
 
